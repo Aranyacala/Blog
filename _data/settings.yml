@@ -13,6 +13,11 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Tentang Kami'
+      submenu :
+      - url: '/Sejarah/'
+        title: 'Sejarah'
+      - url: '/Logbook_Anggota/'
+        title: 'Logbook Anggota'
       url: '/blog/'
     - title: 'Authors'
       url: '/authors'
