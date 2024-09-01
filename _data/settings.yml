@@ -20,7 +20,7 @@ menu__settings:
         title: 'Keanggotaan'
       url: '/blog/'
     - title: 'Perjalanan'
-      url: '/Perjalanan'
+      url: '/Perjalanan/'
     - title: 'Videos'
       url: '/videos/'
     - title: 'Pages'
