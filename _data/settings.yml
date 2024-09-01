@@ -20,7 +20,11 @@ menu__settings:
         title: 'Keanggotaan'
       url: '/blog/'
     - title: 'Kegiatan'
-      url: '/Kegiatan/'
+      submenu:
+      - url: '/divisi/'
+        title: 'Divisi Peminatan'
+      - url: '/perjalanan/'
+        title: 'Perjalanan'
     - title: 'Videos'
       url: '/videos/'
     - title: 'Pages'
