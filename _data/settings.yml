@@ -16,8 +16,8 @@ menu__settings:
       submenu :
       - url: '/Sejarah/'
         title: 'Sejarah'
-      - url: '/Logbook_Anggota/'
-        title: 'Logbook Anggota'
+      - url: '/Keanggotaan/'
+        title: 'Keanggotaan'
       url: '/blog/'
     - title: 'Authors'
       url: '/authors'
