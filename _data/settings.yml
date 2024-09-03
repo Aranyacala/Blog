@@ -16,6 +16,8 @@ menu__settings:
       submenu :
       - url: '/Sejarah/'
         title: 'Sejarah'
+      - url: '/Tujuan/'
+        title: 'Tujuan'
       - url: '/Keanggotaan/'
         title: 'Keanggotaan'
       url: '/blog/'
