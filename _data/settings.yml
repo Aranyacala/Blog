@@ -43,8 +43,8 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: 'MPA' Aranyacala Trisakti
-  hero__description: ‘Mahasiswa Pencinta Alam’ Aranyacala Trisakti berdiri dan dideklarasikan pada tanggal 29 November 1967 di Gunung Ciremai, Jawa Barat. Merupakan suatu unit kegiatan mahasiswa yang ada di lingkungan universitas Trisakti yang Juga merupakan suatu wadah penyalur minat, pembinaan pengembangan ilmu dan aspirasi mahasiswa dalam kegiatan di alam bebas dan lingkungan hidup.
+  hero__title: Aranyacala Trisakti
+  hero__description:
   hero__image: /images/assets/forest.jpg # You can add hero image. For example '/images/06.jpg'
 
 
