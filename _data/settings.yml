@@ -13,7 +13,7 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Tentang Kami'
-      submenu :
+      submenu:
       - url: '/Sejarah/'
         title: 'Sejarah'
       - url: '/Tujuan/'
