@@ -44,7 +44,8 @@ menu__settings:
 hero:
   enable: true
   hero__title: Aranyacala Trisakti
-  hero__description: 'Mahasiswa Pencinta Alam' Aranyacala Trisakti adalah suatu unit kegiatan mahasiswa yang ada di lingkungan Trisakti dan merupakan milik mahasiswa/i Trisakti. Merupakan suatu wadah penyalur minat, pembinaan pengembangan ilmu dan aspirasi mahasiswa/i Trisakti dalam kegiatan di alam bebas dan lingkungan hidup.
+  hero__description: ‘Mahasiswa Pencinta Alam’ Aranyacala Trisakti berdiri dan dideklarasikan pada tanggal 29 November 1967 di Gunung Ciremai, Jawa Barat. 
+  adalah suatu unit kegiatan mahasiswa yang ada di Universitas Trisakti yang merupakan suatu wadah penyalur minat, pembinaan pengembangan ilmu dan aspirasi mahasiswa Trisakti dalam kegiatan di alam bebas dan lingkungan hidup.
   hero__image: /images/Blog/EKS Bunga Lawe alas 1991(2).jpg # You can add hero image. For example '/images/06.jpg'
 
 
