@@ -68,4 +68,4 @@ Telaga Sarangan, juga dikenal sebagai Telaga Pasir adalah telaga alami yang bera
 ```
 
 
-Untuk Format Content bisa di cek di setiap masing2 contoh artikel yang sudah ada. damn selebihnya bisa di cek di [sini](https://aranyacala.com/elements/)
+Untuk Format Content bisa di cek di setiap masing2 contoh artikel yang sudah ada. damn selebihnya bisa di cek di [sini](https://aranyacala.zulma.id/elements/)

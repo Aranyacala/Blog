@@ -12,21 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Tentang Kami'
-      submenu:
-      - url: '/Sejarah/'
-        title: 'Sejarah'
-      - url: '/Tujuan/'
-        title: 'Tujuan'
-      - url: '/Keanggotaan/'
-        title: 'Keanggotaan'
+    - title: 'Blog'
       url: '/blog/'
-    - title: 'Kegiatan'
-      submenu:
-      - url: '/divisi/'
-        title: 'Divisi Peminatan'
-      - url: '/perjalanan/'
-        title: 'Perjalanan'
+    - title: 'Authors'
+      url: '/authors'
     - title: 'Videos'
       url: '/videos/'
     - title: 'Pages'
@@ -43,10 +32,9 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Aranyacala Trisakti
-  hero__description: ‘Mahasiswa Pencinta Alam’ Aranyacala Trisakti berdiri dan dideklarasikan pada tanggal 29 November 1967 di Gunung Ciremai, Jawa Barat. 
-  adalah suatu unit kegiatan mahasiswa yang ada di Universitas Trisakti yang merupakan suatu wadah penyalur minat, pembinaan pengembangan ilmu dan aspirasi mahasiswa Trisakti dalam kegiatan di alam bebas dan lingkungan hidup.
-  hero__image: /images/Blog/EKS Bunga Lawe alas 1991(2).jpg # You can add hero image. For example '/images/06.jpg'
+  hero__title: Thoughts, stories and ideas.
+  hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+  hero__image: /images/assets/forest.jpg # You can add hero image. For example '/images/06.jpg'
 
 
 #-------------------------------
@@ -112,7 +100,7 @@ footer__description: Don’t limit yourself. Many people limit themselves to wha
 # Social Links
 social:
 - {icon: "instagram", link: "https://instagram.com/mpa_aranyacala"}
-- {icon: "facebook", link: "https://facebook.com/mpaaranyacala"}
+- {icon: "facebook", link: "https://facebook.com/mpa_aranyacala"}
 - {icon: "twitter", link: "https://twitter.com/mpa_aranyacala"}
 - {icon: "linkedin", link: "https://linkedin.com/in/mpa_aranyacala"}
 - {icon: "vimeo", link: "https://vimeo.com"}
