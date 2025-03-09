@@ -5,9 +5,9 @@ permalink: /about/
 image: '/images/assets/avatar.png'
 ---
 
-In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
+Aranyacala Komunitas Pecinta Alam Tertua Ketiga di Indonesia
 
-> Sing like no one’s listening, love like you’ve never been hurt, dance like nobody’s watching, and live like it’s heaven on earth.
+> Baktiku Akhir-akhirnya
 
 Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.
 
@@ -16,7 +16,7 @@ Observational learning is learning that occurs through observing the behavior of
     <img src="/images/103.jpg" loading="lazy">
     <img src="/images/104.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Gallery / Unsplash</em>
 </div>
 
 Nonformal learning is organized learning outside the formal learning system. For example, learning by coming together with people with similar interests and exchanging viewpoints, in clubs or in (international) youth organizations, workshops.
