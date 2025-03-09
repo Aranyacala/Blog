@@ -18,6 +18,10 @@ menu__settings:
       url: '/authors'
     - title: 'Videos'
       url: '/videos/'
+    - title: 'Divisi'
+      submenu:
+      - url: '/Gunung-Hutan/'
+        title: 'Gunung Hutan'
     - title: 'Pages'
       submenu:
       - url: '/about/'
