@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gunung-Hutan
+title: Gunung Hutan
 permalink: /Gunung-Hutan/
 image: '/images/assets/avatar.png'
 ---

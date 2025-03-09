@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Test Post
+description: Cuma Ngetest
+date:   2025-03-09 12:00:00 +0700
+author: 744
+image:  '/images/17.jpg'
+tags:   [travel, oregon]
+tags_color: '#477690'
+---
+
+# Ini Judul
+
+Baru isinya
