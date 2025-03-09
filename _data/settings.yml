@@ -14,7 +14,7 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Authors'
+    - title: 'Anggota'
       url: '/authors'
     - title: 'Videos'
       url: '/videos/'
