@@ -1,0 +1,14 @@
+---
+layout: post
+title:  apaanaja
+description: Cuma Ngetest
+date:   2025-03-09 12:30:00 +0700
+author: 744
+image:  '/images/16.jpg'
+tags:   [travel, oregon]
+tags_color: '#477690'
+---
+
+# Ini Judul
+
+Baru isinya apa
